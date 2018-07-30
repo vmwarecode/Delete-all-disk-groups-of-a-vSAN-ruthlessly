@@ -1,0 +1,1 @@
+# Delete-all-disk-groups-of-a-vSAN-ruthlessly
